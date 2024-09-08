@@ -45,3 +45,8 @@ loading: State to show a loading spinner while fetching data.
 -Error Handling: Shows an error message with an icon if the location is invalid.
 
 # images of Weather-React-App
+![ScreenShot_08-09-2024_21_50_15](https://github.com/user-attachments/assets/9e470c46-89e9-44b3-8b3c-9218656318a9)
+![ScreenShot_08-09-2024_21_50_46](https://github.com/user-attachments/assets/426bdaf1-3cf8-4aa5-887e-2d8ba8ff8df1)
+![ScreenShot_08-09-2024_21_51_09](https://github.com/user-attachments/assets/c437a23b-bab1-4d54-80d5-034578531d7a)
+
+
